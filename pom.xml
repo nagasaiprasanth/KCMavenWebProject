@@ -84,7 +84,6 @@
           <url>http://13.232.137.0:8081/repository/prasanth-central//</url>
         </repository>
         <snapshotRepository>
-          
    </distributionManagement>
 	
  <!-- <profiles>
